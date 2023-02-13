@@ -23,12 +23,37 @@
         *Hover effects [a:hover]
         *Alignment [margin, padding]
         
-     ❧ Work Done fir the week
+     ❧ Work Done for the week
       ◦ CA on Cemantics & Experimentation with fonts
     
-### Week 3
-    *I learnt...
-    
+### Week 3 [CSS Media Queries + Flex]
+    ❧ Introduced to creation of Forms
+      ◦ Added Inputs <input>
+        * Input Types like:
+            1) "text"
+            2) "date"
+            3) "color"
+            4) "file"
+            5) "checkbox"
+            6) "radio"   
+      ◦ Buttons <button>
+      ◦ Input validations through -> "required" funtion
+        
+    ❧ More CSS
+      ◦ Background [background: url("...")]
+      ◦ Border [border: , border-(top,bottom,left,right):, border-radius:]
+      ◦ Poitioning
+        *Relative
+        *Absolute
+        *Fixed
+      ◦ Flexboxes
+      ◦ Mobile Properties [@media screen and (min-width: ...)]
+        
+     ❧ Work Done for the week
+      ◦ CA on Flexboxes
+      ◦ CA on Containers
+      ◦ CA on Mobile Responsiveness
+      
 ### Week 4
     *I learnt...
     
