@@ -1,6 +1,15 @@
 # DevelopmentBlog_Dynoh
 ### Week 1
-    *I learnt...
+    ❧ I was introduced to simple CSS and HTMl
+      ◦ Headers <h1 ,h2, h3>
+      ◦ Paragraphs <p>
+      ◦ Images <img src="...">
+      ◦ Containers <div>
+      ◦ Iframes <iframe src="..">
+      
+    ❧ Work Done for the week
+      ◦ Coded My First Website (Recipe)
+      ◦ Group work on what we felt contributed to "Good Website"
     
 ### Week 2
     *I learnt...
