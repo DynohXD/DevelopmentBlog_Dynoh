@@ -1,5 +1,5 @@
 # DevelopmentBlog_Dynoh
-### Week 1
+### Week 1 [Introduction]
     ❧ I was introduced to simple CSS and HTMl
       ◦ Headers <h1 ,h2, h3>
       ◦ Paragraphs <p>
@@ -11,8 +11,20 @@
       ◦ Coded My First Website (Recipe)
       ◦ Group work on what we felt contributed to "Good Website"
     
-### Week 2
-    *I learnt...
+### Week 2 [Semantic-CSS]
+    ❧ I was introduced to Cemantics like:
+      ◦ <header>, <nav>, <article>, <section>
+        *Making it easier to define each section of the website
+        
+    ❧ Styling items in HTML with CSS
+      ◦ Calling the element in CSS changing
+        *Font [font-style, font-weight, font-size]
+        *Color [color]
+        *Hover effects [a:hover]
+        *Alignment [margin, padding]
+        
+     ❧ Work Done fir the week
+      ◦ CA on Cemantics & Experimentation with fonts
     
 ### Week 3
     *I learnt...
