@@ -70,7 +70,18 @@
       ◦ Begin Creation of ASG 1 Website
     
 ### Week 5
-    *I learnt...
+    ❧ Introduction to Javascript
+      ◦ Asynchronous Learning through LinkedIn Learning
+        *Basic Javascript Coverage
+        *Use Cases
+        *Simple Code (e.g.)
+            1) Refrencing code in html [document.getElementById("...").innerHTML]
+            2) Function [function functionname(parameters){}]
+            3) Let [Let X = 10]
+            
+     ❧ Work Done for the week
+      ◦ Quizzes through LinkedIn Learning
+      ◦ Javascript work given through LinkedIn Learning
     
 ### Week 6
     *I learnt...
