@@ -64,7 +64,7 @@
       ◦ [flex-wrap: wrap]
       ◦ [flex-direction: column/row]
         
-     ❧ Work Done for the week
+    ❧ Work Done for the week
       ◦ CA on Flexboxes
       ◦ GitHub for ASG 1
       ◦ Begin Creation of ASG 1 Website
@@ -79,13 +79,42 @@
             2) Function [function functionname(parameters){}]
             3) Let [Let X = 10]
             
-     ❧ Work Done for the week
+    ❧ Work Done for the week
       ◦ Quizzes through LinkedIn Learning
       ◦ Javascript work given through LinkedIn Learning
     
-### Week 6
-    *I learnt...
+### Week 6 [Javascript Basics]
+    ❧ Recap on Javascript Learnt in Week 5
+      ◦ Statements
+        *console.log('...');
+      ◦ Data-Types
+        *Numbers
+        *String
+        *Boolean
+      ◦ Template Literals
+        *``
+      ◦ Logical Operators 
+        *===, ==, !==, !=, >, <, >=, <=
+      ◦ Comparison
+        *&&, ||, !
     
+    ❧ Object Oriented Programming (OOP)
+      ◦ Let [Let ... = ...;]
+      ◦ Variables [var ...;]
+      ◦ Constant [cont ... = ...;]
+      ◦ For Loop [for(parameters){}]
+    
+    ❧ Document Object Model (DOM)
+    ❧ Object Oriented Programming (OOP)
+      ◦ Calling Elements from HTML
+        *getElementById('...');
+        *querySelectorAll('...'); 
+    
+    ❧ Work Done for the week
+      ◦ CA on Conditions & Loops
+      ◦ CA on Objects
+      ◦ CA on DOM
+      
 ### Week 7
     *I learnt...
     
