@@ -54,7 +54,7 @@
       ◦ CA on Containers
       ◦ CA on Mobile Responsiveness
       
-### Week 4
+### Week 4 [Assignment 1 + Flexbox]
     ❧ Brief on ASG 1
       ◦ Create Website with Mobile responsiveness   
       ◦ Usage of Knowledge learnt up to this point
@@ -69,7 +69,7 @@
       ◦ GitHub for ASG 1
       ◦ Begin Creation of ASG 1 Website
     
-### Week 5
+### Week 5 [Javascript]
     ❧ Introduction to Javascript
       ◦ Asynchronous Learning through LinkedIn Learning
         *Basic Javascript Coverage
