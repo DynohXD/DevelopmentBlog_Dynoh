@@ -41,7 +41,7 @@
         
     ❧ More CSS
       ◦ Background [background: url("...")]
-      ◦ Border [border: , border-(top,bottom,left,right):, border-radius:]
+      ◦ Border [border:, border-(top,bottom,left,right):, border-radius:]
       ◦ Poitioning
         *Relative
         *Absolute
@@ -49,13 +49,25 @@
       ◦ Flexboxes
       ◦ Mobile Properties [@media screen and (min-width: ...)]
         
-     ❧ Work Done for the week
+    ❧ Work Done for the week
       ◦ CA on Flexboxes
       ◦ CA on Containers
       ◦ CA on Mobile Responsiveness
       
 ### Week 4
-    *I learnt...
+    ❧ Brief on ASG 1
+      ◦ Create Website with Mobile responsiveness   
+      ◦ Usage of Knowledge learnt up to this point
+        
+    ❧ Learnt responsive flexbox
+      ◦ [display: flex]
+      ◦ [flex-wrap: wrap]
+      ◦ [flex-direction: column/row]
+        
+     ❧ Work Done for the week
+      ◦ CA on Flexboxes
+      ◦ GitHub for ASG 1
+      ◦ Begin Creation of ASG 1 Website
     
 ### Week 5
     *I learnt...
