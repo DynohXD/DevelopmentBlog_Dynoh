@@ -115,8 +115,26 @@
       ◦ CA on Objects
       ◦ CA on DOM
       
-### Week 7
-    *I learnt...
+### Week 7 [DOM Events Local Storage]
+    ❧ Recap on DOM Learnt in Week 6
+    ❧ Event Handling & Validation
+      ◦ KeyUp function
+      ◦ Mouse Events
+      ◦ EventListener function
+      ◦ More Form buttons
+        *Textboxes
+        *Radio Buttons
+        *Check box
+        *Dropdown Menu
+    
+    ❧ JSON
+      ◦Using API to store data
+      ◦Get/Update/Put functions
+      ◦Introduced to Rest.DB
+    
+    ❧ Work Done for the week
+      ◦ CA on Event Handling
+      ◦ CA on JSON 
     
 ### Week 8
     *I learnt...
