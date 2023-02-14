@@ -184,5 +184,10 @@
 ### Week 13
     ❧ Started on ASG2 Pair Project
 
-### Week 14
-    *I learnt...
+### Week 14 [Lottie]
+    ❧ Introduction to Lottie
+      ◦ Use of LottieFiles
+      ◦ Used as a "Loading Animation"
+
+    ❧ Work Done for the week
+      ◦ CA on Lottie
