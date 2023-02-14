@@ -129,15 +129,34 @@
     
     ❧ JSON
       ◦Using API to store data
-      ◦Get/Update/Put functions
+      ◦Get/Update/Put/Set functions
       ◦Introduced to Rest.DB
     
     ❧ Work Done for the week
       ◦ CA on Event Handling
       ◦ CA on JSON 
     
-### Week 8
-    *I learnt...
+### Week 8 [jQuery]
+    ❧ Introduction to jQuery
+      ◦ Simplifying javascript by skipping unnecessary steps
+    ❧ DOM Traversal
+      ◦ Similar to C# where data
+        *Ordered in table
+        *Contains Parent/Child/Sibling Data
+      ◦ access via .parent()/.children()/.siblings() function
+      ◦ Effects like
+        *.hide()/.show()/.toggle()
+        *.fadeIn()/.fadeOut()/.fadeToggle()/.fadeTo()
+    
+    ❧ Asynchronus Javascript and XML (AJAX)
+      ◦ Use of API to store/get/update data in a server
+      ◦ Learning to fetch data from a external database
+      ◦ Using "POSTMAN" to test API
+    
+    ❧ Work Done for the week
+      ◦ CA on jQuery in GoogleDocs
+      ◦ CA on Effects with JS
+      ◦ CA on integration of jQuery with AJAX
     
 ### Week 12
     *I learnt...
