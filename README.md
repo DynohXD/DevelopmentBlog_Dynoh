@@ -182,7 +182,7 @@
       ◦ CA using Rest.DB
     
 ### Week 13
-    *I learnt...
+    ❧ Started on ASG2 Pair Project
 
 ### Week 14
     *I learnt...
