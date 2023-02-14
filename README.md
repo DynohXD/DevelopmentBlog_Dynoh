@@ -168,8 +168,18 @@
       ◦ Lessons on Bootsrap through LinkedIn Learning
       ◦ CA on Bootsrap
 
-### Week 12
-    *I learnt...
+### Week 12 [Rest DB & NoSQL]
+    ❧ Recap on API, jQuery, JSON and DOM
+    ❧ Covered NoSQL
+      ◦ Unstructured Data
+        *Do not require pre-made tables
+        *Large data for a single object can be set
+      ◦ Covered how to use Rest.DB
+        *use the Get/Set/Update/Post functions
+        *Testing with "POSTMAN"
+        
+    ❧ Work Done for the week
+      ◦ CA using Rest.DB
     
 ### Week 13
     *I learnt...
