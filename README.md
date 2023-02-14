@@ -157,7 +157,17 @@
       ◦ CA on jQuery in GoogleDocs
       ◦ CA on Effects with JS
       ◦ CA on integration of jQuery with AJAX
-    
+
+### Week 9 [Bootstrap]
+    ❧ Introduction to Bootstrap
+      ◦ Simplifies development process
+        *Easily makes your website responsive
+        *Based on a pre-developed grid
+
+    ❧ Work Done for the week
+      ◦ Lessons on Bootsrap through LinkedIn Learning
+      ◦ CA on Bootsrap
+
 ### Week 12
     *I learnt...
     
